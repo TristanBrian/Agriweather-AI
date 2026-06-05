@@ -123,7 +123,7 @@ src/
 │   ├── HourlyPanel.tsx      # 48‑hour scrollable view
 │   ├── UsageBar.tsx         # Quota bars & plan info
 │   ├── Tabs.tsx             # Forecast / Hourly tabs
-│   └── ThemeToggle.tsx      # Dark/light mode button
+│   
 ├── lib/
 │   ├── weather-ai.ts        # Axios client, auth, error handling
 │   ├── cache.ts             # In‑memory TTL cache + invalidation
@@ -138,7 +138,6 @@ src/
 
 1. **Forecast tab** – click the map or **Use my location** → 7‑day forecast appears.
 2. **Hour‑by‑hour tab** – 48 hours of granular weather data loads for the same location.
-3. **Theme toggle** (top‑right corner) – switches between light and dark mode; preference saved.
 4. **Usage bar** (top of page) – updates after every weather request to show live quota.
 
 ---
