@@ -1,6 +1,6 @@
 # 🌾 Agriweather-AI
 
-**Live demo:** [your-netlify-url.netlify.app](https://agriweather-ai.netlify.app/)  
+**Live demo:** [AgriWeather](https://agriweather-ai.netlify.app/)  
 **Repository:** [https://github.com/TristanBrian/Agriweather-AI.git](https://github.com/TristanBrian/Agriweather-AI.git)
 
 A production‑grade weather dashboard for precision agriculture, powered by the [Weather AI](https://weather-ai.co/docs) API. Click any location on the interactive map to get a 7‑day forecast with AI summaries, dive into 48 hours of hourly data, and monitor your API usage in real time — all behind a secure, cache‑optimised serverless proxy.
