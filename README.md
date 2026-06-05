@@ -1,6 +1,3 @@
-Here’s your **final README** tailored for **Netlify** deployment, with your actual repo link and complete setup instructions.
-
-```markdown
 # 🌾 Agriweather-AI
 
 **Live demo:** [your-netlify-url.netlify.app](https://your-netlify-url.netlify.app)  
@@ -161,7 +158,7 @@ MIT — use freely for your own Weather AI integrations.
 
 ## 👨‍🌾 About
 
-Made with ☕ by **Brian** — built for the Weather AI engineering challenge.
+Made with ☕ by **Brian Kioko** — built for the Weather AI engineering challenge.
 
 *For questions about the architecture or to discuss scaling further, feel free to reach out.*
 ```
