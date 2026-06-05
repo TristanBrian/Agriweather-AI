@@ -20,7 +20,7 @@ export async function GET(request: NextRequest) {
   if (cached) return NextResponse.json(cached);
 
   try {
-    const data = await weatherAIGet('/v1/weather-geo', { ip: 'auto', days, ai: 'false', units });
+    const data = await weatherAIGet('/v1/weather-geo', { ip, days, ai: 'false', units });
     invalidateCache('usage:global');
     setToCache(cacheKey, data, 10 * 60 * 1000);
     return NextResponse.json(data);
