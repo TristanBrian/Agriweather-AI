@@ -1,4 +1,4 @@
-// layout file for the app
+// layout file for the ap
 import type { Metadata } from 'next';
 import './globals.css';
 
