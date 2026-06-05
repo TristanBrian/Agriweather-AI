@@ -6,7 +6,6 @@ import WeatherDisplay from '@/components/WeatherDisplay';
 import HourlyPanel from '@/components/HourlyPanel';
 import Tabs from '@/components/Tabs';
 import UsageBar from '@/components/UsageBar';
-import ThemeToggle from '@/components/ThemeToggle';
 import type { MapLocation } from '@/components/Map';
 import type { WeatherResponse } from '@/types';
 
@@ -66,7 +65,6 @@ export default function Home() {
               Precision forecasts & hourly conditions for your fields
             </p>
           </div>
-          <ThemeToggle />
         </header>
 
         <UsageBar />
