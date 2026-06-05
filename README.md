@@ -1,6 +1,6 @@
 # 🌾 Agriweather-AI
 
-**Live demo:** [agriweather-ai.netlify.app](https://agriweather-ai.netlify.app/)  
+**Live demo:** [agriai.netlify.app](https://farm-agriai.netlify.app/)  
 **Repository:** [github.com/TristanBrian/Agriweather-AI](https://github.com/TristanBrian/Agriweather-AI.git)
 
 A **production‑grade weather dashboard for precision agriculture**, powered by the [Weather AI](https://weather-ai.co/docs) API.  
@@ -10,7 +10,7 @@ Click anywhere on the interactive map for a hyperlocal 7‑day forecast with AI�
 
 ## 📸 Dashboard Overview
 
-[![Dashboard Overview](public/shot1.png)](https://agriweather-ai.netlify.app/)
+[![Dashboard Overview](public/shot1.png)](https://farm-agriai.netlify.app/)
 
  
 *Forecast Dashboard.*
