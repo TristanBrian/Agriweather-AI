@@ -10,11 +10,13 @@ Click anywhere on the interactive map for a hyperlocal 7‑day forecast with AI�
 
 ## 📸 Preview
 
-[![Dashboard preview](public/shot1.png)](https://agriweather-ai.netlify.app/)
+[![Dashboard Overview](public/shot1.png)](https://agriweather-ai.netlify.app/)
 
-*Click the image to open the live demo.*  
-*More screenshots: forecast cards, hourly view, tree analysis.*
+ 
+*Forecast Dashboard.*
 ![Forecast cards](public/shot2.png)
+
+*Hourly Dashboard.* 
 ![Hourly breakdown](public/shot3.png)
 
 ---
