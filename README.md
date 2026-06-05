@@ -8,7 +8,7 @@ Click anywhere on the interactive map for a hyperlocal 7‑day forecast with AI�
 
 ---
 
-## 📸 Preview
+## 📸 Dashboard Overview
 
 [![Dashboard Overview](public/shot1.png)](https://agriweather-ai.netlify.app/)
 
