@@ -11,8 +11,14 @@ Click any location on the interactive map to get a 7‑day forecast with AI summ
 ## ✨ Features
 
 - **Interactive Map** – Leaflet + OpenStreetMap; click anywhere to fetch forecasts.
+  ![Dashboard preview](public/shot1.png)
+
 - **7‑Day Forecast** – daily highs/lows, conditions, and Gemini AI summaries.
+  ![7 Day Preview](public/shot2.png)
+
 - **48‑Hour Hourly Breakdown** – temperature, precipitation, wind, and humidity.
+  ![48 Hour Preview](public/shot3.png)
+
 - **Geolocation** – “Use my location” button via Weather AI’s IP endpoint.
 - **Live Usage Bar** – plan info, request counts, quota reset date; updates after every API call.
 - **Dark / Light Mode** – toggle that persists across sessions (localStorage).
