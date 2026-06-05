@@ -1,3 +1,4 @@
+// layout file for the app
 import type { Metadata } from 'next';
 import './globals.css';
 
