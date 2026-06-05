@@ -5,8 +5,8 @@ import { useRef, useState } from 'react';
 import WeatherDisplay from '@/components/WeatherDisplay';
 import HourlyPanel from '@/components/HourlyPanel';
 import Tabs from '@/components/Tabs';
-import UsageBar from '@/components/UsageBar';
 import TreeUploader from '@/components/TreeUploader';
+import UsageBar from '@/components/UsageBar';
 import type { MapLocation } from '@/components/Map';
 import type { WeatherResponse } from '@/types';
 
@@ -158,7 +158,9 @@ export default function Home() {
           ]}
         />
 
-      
+        <footer className="mt-10 pt-4 border-t border-gray-200 dark:border-gray-700 text-center text-xs text-gray-400 dark:text-gray-500">
+          Made with ☕ by Brian Kioko
+        </footer>
       </div>
     </main>
   );
