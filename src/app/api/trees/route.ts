@@ -1,3 +1,5 @@
+// trees functionality to call API
+
 import { NextRequest, NextResponse } from 'next/server';
 import weatherAI, { ApiError } from '@/lib/weather-ai';
 import { checkRateLimit } from '@/lib/rate-limiter';
